@@ -3,10 +3,10 @@
     "buildroot-deps": {
       "flake": false,
       "locked": {
-        "lastModified": 1657739307,
-        "narHash": "sha256-xU7ssXeIN9dHqZ5juMAuCmiWmaVdafk1RM1h1LR9JbI=",
+        "lastModified": 1657740439,
+        "narHash": "sha256-nuzm+rWXGKsQEdcqffuBAXndmw3+V2EGk3JMBx9uV0w=",
         "ref": "refs/heads/master",
-        "rev": "95a4d3fb86bdc32313d601d97e817891430d6c36",
+        "rev": "14f25e3f875f6229ea2dccaddc740257a95ca02b",
         "revCount": 1,
         "type": "git",
         "url": "https://github.com/INTERUPT13/nix-coreboot-buildroot-deps"
